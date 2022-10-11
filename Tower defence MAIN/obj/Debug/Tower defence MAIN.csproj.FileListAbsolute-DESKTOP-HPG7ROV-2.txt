@@ -1,0 +1,11 @@
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\bin\Debug\Tower defence MAIN.exe.config
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\bin\Debug\Tower defence MAIN.exe
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\bin\Debug\Tower defence MAIN.pdb
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower defence MAIN.csprojAssemblyReference.cache
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower_defence_MAIN.StartingMenu.resources
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower_defence_MAIN.Properties.Resources.resources
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower defence MAIN.csproj.GenerateResource.cache
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower defence MAIN.csproj.CoreCompileInputs.cache
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower defence MAIN.exe
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower defence MAIN.pdb
+C:\Users\joann\OneDrive - Hereford Sixth Form College\Computer science\Coursework\Tower defence MAIN\obj\Debug\Tower_defence_MAIN.GameFrm.resources
